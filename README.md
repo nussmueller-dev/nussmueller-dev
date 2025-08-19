@@ -25,4 +25,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://randommeme.nussmueller.dev/" width="512px"/>
+[![](https://randommeme.nussmueller.dev/)](https://dev-meme.nussmueller.dev/)
